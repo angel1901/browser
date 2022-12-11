@@ -6,7 +6,6 @@ import axios from "axios";
 import { TextField, IconButton, Grid } from "@mui/material";
 import { useEffect, useState } from "react";
 
-import "./App.css";
 import List from "./List/List";
 
 function App() {
